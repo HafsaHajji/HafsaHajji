@@ -1,9 +1,5 @@
 
 - 👋 Hi, I’m @HafsaHajji!
-- 👀 I’m interested in  software development, Mobile Developement, python.
-- - 🌱 I’m currently learning  JavaScript, Python, Asp.NET , Php,AI,Java.
-- 💞️ I’m looking to collaborate on  like open-source, app development,Web Developement,Mobile Devlopement etc.].
-- 📫 How to reach me: https://github.com/HafsaHajji
 
 - <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -11,7 +7,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -19,13 +15,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋, I’m @HafsaHajji!</h1>
+<h1 align="center">A passionate Full-stacck developer from Somalia</h1>
 
 ###
 
@@ -33,7 +29,8 @@
 
 ###
 
-<p align="left">I'm  DevOps from Somalia <br><br>- 🔭 I’m working as Full-stack Developer <br>- 📚 I'm currently learning  <br>- ⚡ In my free time I think I'm Funny</p>
+<p align="left">I'm DevOps from Somalia <br><br>- 🔭 I’m working as Full-stack Developer <br>- 📚 I'm currently learning Asp & Python <br>- ⚡ In my free time I think I'm Funny <br>📫 How to reach me: https://github.com/HafsaHajji <br>- 💞️ I’m looking to collaborate on  like open-source, app development,Web Developement,Mobile Devlopement etc.
+ <br> 📫 How to reach me: xafsaxaaji936@gmai.com</p>
 
 ###
 
@@ -63,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📊 GitHub Stats🔥 :</h3>
 
 ###
 
