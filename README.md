@@ -8,7 +8,7 @@
 
 - 💬 Ask me about html and css
 
-- 📫 How to reach me Xafsaxaaji936
+- 📫 How to reach me Xafsaxaaji936@gmail.com
 
 - 📄 Know about my experiences [https://HafsaHajji.github.io/my-Cv/](https:///HafsaHajji.github.io/my-Cv/)
 
