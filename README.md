@@ -36,4 +36,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HafsaHajji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HafsaHajji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+username=HafsaHajji&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
