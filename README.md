@@ -10,7 +10,7 @@
 
 - 📫 How to reach me Xafsaxaaji936@gmail.com
 
-- 📄 Know about my experiences [https://HafsaHajji.github.io/my-Cv/](https://github.com/HafsaHajji/My-Cv-Hafsa)
+- 📄 Know about my experiences "https://HafsaHajji.github.io/My-Cv-Hafsa/"
 
 - ⚡ Fun fact don't lose hope
 
