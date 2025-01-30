@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HafsaHajji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-username=HafsaHajji&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](username=HafsaHajji&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
