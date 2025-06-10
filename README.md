@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://x.com/HafsaHajji" target="_blank"><img src="https://img.shields.io/twitter/follow/HafsaHajji?logo=twitter&style=for-the-badge" alt="HafsaHajji" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Java, Python, ASP, PHP, and C#**
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS php, asp, java, and pyhton **
 - 💎 Check out my experiences: [My CV](https://HafsaHajji.github.io/My-Cv-Hafsa/)
 - 📧 How to reach me: **Xafsaxaaji936@gmail.com**
 - ✨ Fun fact: **Don't lose hope**
