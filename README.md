@@ -54,5 +54,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsahajji&theme=radical&hide_border=false&layout=compact)
 
 ---
+---
+
+### 🔝 Top Contributed Repositories
+
+1. [Juusto-Pizzeria](https://github.com/hafsahajji/Juusto-Pizzeria) - A responsive pizza ordering website with admin panel and payment integration.
+2. [University-Management-System](https://github.com/hafsahajji/University-Management-System) - A system for managing students, courses, and departments.
+3. [Personal-Portfolio](https://github.com/hafsahajji/Personal-Portfolio) - My personal website to showcase projects and skills.
+
+---
+
 
 <!-- Proudly created by Hafsa Hassan Ahmed -->
