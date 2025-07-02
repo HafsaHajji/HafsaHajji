@@ -56,11 +56,11 @@
 ---
 ---
 
-### 🔝 Top Contributed Repositories
 
-1. [Juusto-Pizzeria](https://github.com/hafsahajji/Juusto-Pizzeria) - A responsive pizza ordering website with admin panel and payment integration.
-2. [University-Management-System](https://github.com/hafsahajji/University-Management-System) - A system for managing students, courses, and departments.
-3. [Personal-Portfolio](https://github.com/hafsahajji/Personal-Portfolio) - My personal website to showcase projects and skills.
+
+### 🔝 Top Contributed Repos
+
+![Top Contributed Repos](https://github-profile-trophy.vercel.app/?username=hafsahajji&theme=radical&rank=-top1)
 
 ---
 
